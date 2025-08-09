@@ -56,16 +56,16 @@ This ensures the model learns the disease patterns instead of overfitting to fix
 
 ### Accuracy & Loss Plots:
 Training and validation curves show steady improvement with no major signs of overfitting.
-![alt text](image.png)
-![alt text](image-1.png)
+![image](image.png)
+![image](image-1.png)
 
 ### Test Accuracy per Image:
 Model performs consistently with correct predictions in most cases.
-![alt text](image-2.png)
+![image](image-2.png)
 
 ### Test Loss per Image:
 Loss values vary across samples, with higher losses in misclassified images.
-![alt text](image-3.png)
+![image](image-3.png)
 
 ## 7. Tools & Frameworks
 - Python
