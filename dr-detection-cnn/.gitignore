@@ -1,0 +1,19 @@
+# Ignore image data and large files
+data/train_images/
+data/test_images/
+data/*.csv
+
+# Ignore output models/logs
+outputs/
+*.h5
+*.pt
+
+# Jupyter clutter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode project files
+.vscode/
